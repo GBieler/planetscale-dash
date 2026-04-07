@@ -1,6 +1,6 @@
 # PlanetScale Query Runner
 
-A simple CLI tool to store, manage, and run PlanetScale (PostgreSQL) queries from the terminal. Define your queries once in a Python file, then execute them by name—results are automatically exported to CSV, or for write operations, committed to the database.
+A simple CLI tool to store, manage, and run PlanetScale (PostgreSQL) queries from the terminal. Define your queries once in a Python file, then execute them by name. Results are automatically exported to CSV, or for write operations, committed to the database.
 
 ## Installation
 
